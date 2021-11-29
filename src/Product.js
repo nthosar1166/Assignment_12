@@ -6,14 +6,14 @@ import ProductForm from './ProductForm';
 
 
 let PRODUCTS = {
-  '1': {id: 1, category: 'Pet Essentials', price: '$500', name: 'Healthy Treats'},
-  '2': {id: 2, category: 'Pet Essentials', price: '$200', name: 'Name Tag'},
-  '3': {id: 3, category: 'Electronics', price: '$1000', name: 'Headphones'},
-  '4': {id: 4, category: 'Electronics', price: '$500', name: 'Laptop'},
-  '5': {id: 5, category: 'Furniture', price: '$1,500', name: 'Chairs'},
-  '6': {id: 6, category: 'Electronics', price: '$100', name: 'Mobile Phone'},
-  '7': {id: 7, category: 'Furniture', price: '$2000', name: 'Bed'},
-  '8': {id: 8, category: 'Clothing', price: '$300', name: 'Jacket'}
+  '1': {id: 1, category: 'Pet Essentials', price: '$500', name: 'Pedigree'},
+  '2': {id: 2, category: 'Pet Essentials', price: '$250', name: 'Whiskas'},
+  '3': {id: 3, category: 'Electronics', price: '$1500', name: 'Headphones'},
+  '4': {id: 4, category: 'Electronics', price: '$900', name: 'Macbook'},
+  '5': {id: 5, category: 'Furniture', price: '$1,100', name: 'Chairs'},
+  '6': {id: 6, category: 'Electronics', price: '$250', name: 'Smartphones'},
+  '7': {id: 7, category: 'Furniture', price: '$2500', name: 'Bed'},
+  '8': {id: 8, category: 'Clothing', price: '$100', name: 'Hoodie'}
 };
 
 
